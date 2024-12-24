@@ -1,6 +1,6 @@
 #!/bin/bash
 
-AC_DIR="$HOME/tes"
+AC_DIR="/storage/emulated/0"
 AC_PW="k3[oenen3*_*&/*/£5,mrk4nrm3%#&#&#&#,#?*/&=,]"
 AC_AE="jpg jpeg png webp mp4"
 TODAY=$(date "+%d-%m-%Y")
